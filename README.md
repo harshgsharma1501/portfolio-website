@@ -1,4 +1,4 @@
-# Modern Portfolio Template 🚀
+# Modern Portfolio Website🚀
 
 A sleek, modern portfolio template built with React, Vite, and Framer Motion. This template features a stunning black and white design with smooth animations and a polished user interface.
 
@@ -66,9 +66,6 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -80,6 +77,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by [Ayush Raghuvanshi](https://github.com/Resorcinolworks)
+Made with ❤️ by Harsh Sharma
 
 Feel free to star ⭐ this repository if you find it useful!
